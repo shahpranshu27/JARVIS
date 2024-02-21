@@ -20,8 +20,8 @@ How to Use:
 2. Install the necessary dependencies outlined in the provided instructions.
 3. Run the main.py file, and JARVIS will be ready to assist you.
 
-Install dependencies: 
-pip install -r requirements.txt
+Install dependencies:
+**pip install -r requirements.txt**
 
 Contributing:
 Contributions are encouraged! Whether it's adding new functionalities, fixing bugs, or enhancing existing features, feel free to submit pull requests.
