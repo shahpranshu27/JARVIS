@@ -27,6 +27,7 @@ How to Use:
 3. Run the main.py file, and JARVIS will be ready to assist you.
 
 Install dependencies:
+
 **pip install -r requirements.txt**
 
 Contributing:
