@@ -8,11 +8,17 @@ JARVIS is a Python-based personal assistant designed to streamline your daily ta
 Key Features:
 
 -> Voice Commands: Interact with JARVIS using natural language for hands-free convenience.
+
 -> Application Launch: Open Notepad, Command Prompt, Chrome, Brave, and even your camera effortlessly.
+
 -> Information Retrieval: Get real-time updates on your IP address, latest news headlines, current weather conditions, and more.
+
 -> Communication: Send WhatsApp messages and emails seamlessly through voice commands.
+
 -> Entertainment: Enjoy a touch of humor with random jokes and advice.
+
 -> Time and Date: Stay informed about the current day, date, and time with a simple voice prompt.
+
 -> YouTube Integration: JARVIS can play your favorite YouTube videos on demand.
 
 How to Use:
