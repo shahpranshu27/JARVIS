@@ -30,7 +30,11 @@ Install dependencies:
 
 **pip install -r requirements.txt**
 
+
+Demo video: https://vimeo.com/915100223
+
 Contributing:
+
 Contributions are encouraged! Whether it's adding new functionalities, fixing bugs, or enhancing existing features, feel free to submit pull requests.
 
 Experience the convenience of a voice-activated personal assistant with JARVIS – making your tasks simpler and more enjoyable.
